@@ -1,10 +1,8 @@
-# dashboard_1
+#A new Flutter project.
+##Flutter based Aquaculture prawn monitoring App
+I have done this project while working in Shifa prawn culture company
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project is a starting point for my Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
