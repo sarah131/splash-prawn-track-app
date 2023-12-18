@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "148715308956",
+    "firebase_url": "https://pond-quality-default-rtdb.firebaseio.com",
+    "project_id": "pond-quality",
+    "storage_bucket": "pond-quality.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148715308956:android:e5bdf3791ab725837d6a59",
+        "android_client_info": {
+          "package_name": "com.splash.flare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148715308956-2bihiqrme45bffsf4j114c614pf7om2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdQ3V_minu6jRaojPA5xGy5oHFpLO-8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148715308956-2bihiqrme45bffsf4j114c614pf7om2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148715308956-k8p9940imjeu7s7ol54cv3s9ap1ls4fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lmes.readings.readingsApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148715308956:android:df43a787b86c15517d6a59",
+        "android_client_info": {
+          "package_name": "com.example.pond_12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148715308956-2bihiqrme45bffsf4j114c614pf7om2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdQ3V_minu6jRaojPA5xGy5oHFpLO-8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148715308956-2bihiqrme45bffsf4j114c614pf7om2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148715308956-k8p9940imjeu7s7ol54cv3s9ap1ls4fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lmes.readings.readingsApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148715308956:android:becb81de9d83c11d7d6a59",
+        "android_client_info": {
+          "package_name": "com.example.pond_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148715308956-2bihiqrme45bffsf4j114c614pf7om2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdQ3V_minu6jRaojPA5xGy5oHFpLO-8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148715308956-2bihiqrme45bffsf4j114c614pf7om2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148715308956-k8p9940imjeu7s7ol54cv3s9ap1ls4fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lmes.readings.readingsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
