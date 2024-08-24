@@ -1,4 +1,4 @@
-#A new Flutter project.
+A new Flutter project.
 ##Flutter based Aquaculture prawn monitoring App
 I have done this project while working in Shifa prawn culture company
 
